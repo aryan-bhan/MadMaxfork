@@ -2,6 +2,8 @@ Note: you need to clone this repo using the `--recursive` flag since this repo h
 
 `git clone git@github.com:nevillegrech/MadMax.git --recursive`
 
+Here I can change anything in this and update it , also could use this to create pull requests to the original Madmax git.
+
 # MadMax 
 ![License](https://img.shields.io/github/license/nevillegrech/MadMax) ![GitHub Repo stars](https://img.shields.io/github/stars/nevillegrech/MadMax) [![Twitter Follow](https://img.shields.io/twitter/follow/neville_grech.svg?style=social)](https://twitter.com/neville_grech)
 
